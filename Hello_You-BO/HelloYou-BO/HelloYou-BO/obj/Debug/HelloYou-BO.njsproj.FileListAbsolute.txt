@@ -1,0 +1,9 @@
+C:\Users\qduys\Desktop\github\HelloYou-BO\HelloYou-BO\obj\Debug\HelloYou-BO.njsproj.AssemblyReference.cache
+C:\Users\qduys\Desktop\github\HelloYou-BO\HelloYou-BO\obj\Debug\HelloYou-BO.njsproj.CoreCompileInputs.cache
+C:\Users\qduys\Desktop\github\HelloYou-BO\HelloYou-BO\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\qduys\Desktop\github\Hello_You-BO\HelloYou-BO\HelloYou-BO\obj\Debug\HelloYou-BO.njsproj.AssemblyReference.cache
+C:\Users\qduys\Desktop\github\Hello_You-BO\HelloYou-BO\HelloYou-BO\obj\Debug\HelloYou-BO.njsproj.CoreCompileInputs.cache
+C:\Users\qduys\Desktop\github\Hello_You-BO\HelloYou-BO\HelloYou-BO\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\qduys\OneDrive\Bureaublad\GitHub\Hello_You-BO\HelloYou-BO\HelloYou-BO\obj\Debug\HelloYou-BO.njsproj.AssemblyReference.cache
+C:\Users\qduys\OneDrive\Bureaublad\GitHub\Hello_You-BO\HelloYou-BO\HelloYou-BO\obj\Debug\HelloYou-BO.njsproj.CoreCompileInputs.cache
+C:\Users\qduys\OneDrive\Bureaublad\GitHub\Hello_You-BO\HelloYou-BO\HelloYou-BO\bin\Microsoft.NodejsTools.WebRole.dll

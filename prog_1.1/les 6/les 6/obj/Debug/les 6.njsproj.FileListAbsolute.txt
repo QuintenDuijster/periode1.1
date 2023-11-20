@@ -1,0 +1,6 @@
+C:\Users\qduys\OneDrive\Bureaublad\ma\bewijzenmap\periode1.1\prog\github\les 6\les 6\obj\Debug\les 6.njsproj.AssemblyReference.cache
+C:\Users\qduys\OneDrive\Bureaublad\ma\bewijzenmap\periode1.1\prog\github\les 6\les 6\obj\Debug\les 6.njsproj.CoreCompileInputs.cache
+C:\Users\qduys\OneDrive\Bureaublad\ma\bewijzenmap\periode1.1\prog\github\les 6\les 6\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\qduys\OneDrive\Bureaublad\GitHub\prog_1.1\les 6\les 6\obj\Debug\les 6.njsproj.AssemblyReference.cache
+C:\Users\qduys\OneDrive\Bureaublad\GitHub\prog_1.1\les 6\les 6\obj\Debug\les 6.njsproj.CoreCompileInputs.cache
+C:\Users\qduys\OneDrive\Bureaublad\GitHub\prog_1.1\les 6\les 6\bin\Microsoft.NodejsTools.WebRole.dll
